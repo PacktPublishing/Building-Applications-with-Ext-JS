@@ -1,5 +1,5 @@
 # Building Applications with Ext JS [Video]
-This is the code repository for [Building Applications with Ext JS [Video]](https:utm_campaign=9781789952469), published by [Packt](https://www.packtpub.com/application-development/enterprise-identity-management-microsoft-forefront-identity-management-video). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Building Applications with Ext JS [Video]](https:utm_campaign=9781789952469), published by [Packt](https://www.packtpub.com/web-development/building-applications-ext-js-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Ext JS is a powerful framework for developing complex web applications for your business. With more such business applications moving to the web everyday, a framework such as Ext JS can speed up your development and help you sharpen the quality of your applications.
 
