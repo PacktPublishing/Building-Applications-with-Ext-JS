@@ -26,7 +26,15 @@ It assumes you have a good grasp of JavaScript and software development processe
 
 ### Technical Requirements
 
+●    OS: Windows 10 Pro
 
+●    Processor:Intel Core i5 3.3GHz
+
+●    Memory: 16GB
+
+●    Hard Disk Space: 1TB
+
+●    Video Card:Integrated Intel HD Graphic 4600
 ## Related Products
 * [Learning Ext JS 4 [Book]](https://www.packtpub.com/web-development/learning-ext-js-4)
 * [Ext js Essentials[Book]](https://www.packtpub.com/web-development/ext-js-essentials)
