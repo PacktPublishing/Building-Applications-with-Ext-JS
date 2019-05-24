@@ -22,10 +22,10 @@ This video course will open your mind to the possibilities of FIM 2010 R2.
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-If you want to get to know the ExtJS framework and what it can do for you, then this video course is for you.
+It assumes you have a good grasp of JavaScript and software development processes in general.
 
 ### Technical Requirements
-It assumes you have a good grasp of JavaScript and software development processes in general.
+
 
 ## Related Products
 * [Learning Ext JS 4 [Book]](https://www.packtpub.com/web-development/learning-ext-js-4)
